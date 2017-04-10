@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="operando">Operando</string>
+    <string name="operando2">Operando 2</string>
+    <string name="soma">Soma</string>
+    <string name="subtracao">Subtração</string>
+    <string name="multiplicacao">Multiplicação</string>
+    <string name="divisao">Divisão</string>
+    <string name="calcular">Calcular</string>
+    <string name="resultado">O resultado é: %1$.2f</string>
+    <string name="divisao_zero">Não é possivel dividir por 0 (Zero)</string>
+    <string name="input_vazio">Campo obrigatorio!</string>
+</resources>
